@@ -1,2 +1,5 @@
 # apidoc-sb3
-working copy of sb3 apidoc
+Working copy of sb3 apidoc
+
+## example
+<img src="doc-image.png">
